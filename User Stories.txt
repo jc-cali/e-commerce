@@ -1,0 +1,21 @@
+User Stories:
+
+1.
+In order to easily find the bakery goods
+As a customer
+I would like to search the goods by name, price and category.
+
+2.
+In order to decide what items to purchase
+As a customer
+I would ike to view a description and image of the item.
+
+3.
+In order to budget for my bakery purchase
+As a customer
+I would ike to see the order total in my shopping cart.
+
+4.
+In order to place my order
+As a customer
+I would like to choose my payment option when ordering.
